@@ -1,0 +1,9 @@
+{
+  "name": "moe.datasone.jellyfin_clyric_helper",
+  "description": "Jellyfin Lyrics Helper",
+  "path": "C:\\Users\\datasone\\opt\\bin\\jellyfin_clyric_helper.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://moe.datasone.jellyfin_clyric_helper"
+  ]
+}
